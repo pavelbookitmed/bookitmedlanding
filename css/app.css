@@ -25,7 +25,7 @@
   width: 154px;
   height: 67px;
   position: absolute;
-  background-image: url('../../images/logo.png');
+  background-image: url('../images/logo.png');
   background-repeat: no-repeat;
   background-position: center;
 }
