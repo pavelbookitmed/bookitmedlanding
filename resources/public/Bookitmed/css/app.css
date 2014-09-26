@@ -1,0 +1,130 @@
+.main{
+  background: rgba(54,134,190,1);
+  height: 100vh;
+}
+
+.midpiece{
+  display: block;
+  background: rgba(248,255,248,1);
+  -pie-background: rgba(248,255,248,1);
+  border-style: none;
+  margin: 0 auto;
+  width: 345px;
+  height: 553px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.leftpiece{
+  display: block;
+  background: rgba(248,255,248,1);
+  border-style: none;
+  left: -154px;
+  top: 33px;
+  width: 154px;
+  height: 67px;
+  position: absolute;
+  background-image: url('/images/logo.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.uptext{
+  line-height: 32px;
+  margin: 0 auto;
+  display: block;
+  position: relative;
+  padding-left: 40px;
+  padding-top: 40px;
+}
+
+.midtext{
+  margin: 0 auto;
+  display: block;
+  position: relative;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-right: 40px;
+}
+
+.formtext{
+  margin: 0 auto;
+  display: block;
+  position: relative;
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-right: 40px;
+}
+
+.formtext2{
+  margin: 0 auto;
+  display: block;
+  position: relative;
+  padding-left: 40px;
+  padding-top: 10px;
+  padding-right: 40px;
+}
+
+.title{
+  font-size:41px;
+  font-family: droid sans;
+}
+
+.staytuned{
+  color:#3686be;
+}
+
+.weare{
+  color: rgb(94, 99, 89);
+}
+
+.message{
+  color:#5e6359;
+  font-family: ubuntu;
+  font-family: Arial; 
+  font-size: 15px; 
+  white-space: pre-wrap; 
+  line-height: 17px; 
+  background-color: transparent;
+}
+
+.textemail{
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  font-size: 15px;
+  line-height: 15px;
+  height: 40px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.textbutton, .textbutton:hover{
+  width: 100%;
+  height: 42px;
+  background: rgba(54,134,190,1);
+  text-shadow: 1px 1px #010b1d;
+  border-radius: 0px;
+  color: #fff;
+  border-style: none;
+  border-width: undefinedpx;
+  border-color: #undefined;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: bold;
+  font-family: Ubuntu;
+  text-align: center;
+  background-repeat: no-repeat;
+}
+
+.utubetext
+{
+  margin: 0 auto;
+  display: block;
+  position: relative;
+  padding-left: 40px;
+  padding-top: 30px;
+  padding-right: 40px;
+  text-align: center;
+}
